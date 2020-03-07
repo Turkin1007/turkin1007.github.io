@@ -1,0 +1,5 @@
+.hero {
+  background: url("../../igm/one/hero-bg.png") center center/cover no-repeat;
+  color: #fff;
+  position: relative;
+}

@@ -1,0 +1,8 @@
+.bests {
+  text-align: center;
+}
+
+.bests__img {
+  display: flex;
+  justify-content: center;
+}
